@@ -1,1 +1,1 @@
-# Indesign files for starting a brand new website project
+# Indesign files for starting bootstrap based projects
